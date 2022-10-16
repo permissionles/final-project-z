@@ -1,11 +1,12 @@
 "When I started Facebook from my dorm room in 2004, the idea that my roommates and I talked about all the time was a world that was more open." - Mark Z.
+(programmer@ thefacebook)
 
-"Making Linux GPL'd was definitely the best thing I ever did." Linus Torvalds
-
+"Making Linux open-source was definitely the best thing I ever did." Linus Torvalds
+(programmer@ Linux kernel)
 
 
 # Project Z: The Last App.
-the young got together to end the worlds most annoying monopoly.
+# the young got together to end the worlds most annoying monopoly.
 
 $ZETA: https://etherscan.io/token/0x7768d89a2bd728c4b4a43c3585aff2723fc34b13
 
