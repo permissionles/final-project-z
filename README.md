@@ -15,7 +15,7 @@ the young got together to end the worlds most annoying monopoly.
 $ZETA: https://etherscan.io/token/0x7768d89a2bd728c4b4a43c3585aff2723fc34b13
 
 Governance: ZETA OCC(On-chain corporation)
-Rewards: Recurring Revenue from subscriptions and micro-purchases.
+Rewards: Recurring Revenue from subscriptions and micro-purchases which will be regulary used to buyback tokens from the public market.
 
 
 Brief: To build an open-source super social network owned & run by the Gen Z. [ all contributors of all age are welcome, Z is a mindset :) ].
