@@ -10,20 +10,27 @@
 
 # Project Z: The Last App.
 the young got together to end the worlds most annoying monopoly.
-
 $ZETA: https://etherscan.io/token/0x7768d89a2bd728c4b4a43c3585aff2723fc34b13
 
+
 Aim: To build an open-source super social network owned & run by the Gen Z. [ all contributors irrespective of age are Gen Z, it's a mindset :) ].
+
 
 MVP:
 
 Step 1: Clone Signal Mobile Client.
+
 Step 2: Redesign for non-boomers(Refer Wechat for UX Inspiration).
+
 Step 3: Release vOne on Appstores.
 
 
+
 Release priority:
+
 Mobile, Desktop, Web, BCI, Command-line.
+
+
 
 Footnotes:
 
